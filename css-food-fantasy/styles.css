@@ -1,0 +1,16 @@
+h1{
+  color: red;
+  font-size: 50px;
+}
+img:hover{
+  background-color: gold;
+}
+#heading{
+  color: blue;
+}
+.chicken{
+  background-color: red;
+}
+.cheese{
+  background-color: green;
+}
